@@ -1,0 +1,1 @@
+An [[Accessible]] [[Artefact]] can be [[Perceive|Perceived]] using at least two different [[Sense|Senses]] and be [[Manipulate|Manipulated]] using all [[Mode|Modes]] supported by the [[Medium]] through which the [[Artefact]] is presented.

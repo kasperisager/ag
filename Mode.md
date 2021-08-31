@@ -1,0 +1,1 @@
+A [[Mode]] is a method through which a [[User]] can [[Manipulate]] an [[Artefact]]. Different [[Medium|Mediums]] support different [[Mode|Modes]].

@@ -1,0 +1,1 @@
+[[Speech]] is an [[Artefact]] with an [[Audible]] [[Facet]].  An [[Alternative]] to [[Speech]] is [[Text]].

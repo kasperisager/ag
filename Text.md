@@ -1,0 +1,1 @@
+[[Text]] is an [[Artefact]] with a [[Visible]] [[Facet]]. An [[Alternative]] to [[Text]] is [[Speech]].

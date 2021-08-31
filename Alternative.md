@@ -1,0 +1,1 @@
+An [[Alternative]] is a [[Facet]] of an [[Artefact]] that can be [[Perceive|Perceived]] using a different [[Sense]] than that of another [[Equivalent]] [[Facet]] of the same or another [[Artefact]].

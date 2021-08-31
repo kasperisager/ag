@@ -1,0 +1,1 @@
+An [[Image]] is an [[Artefact]] with a [[Visible]] [[Facet]]. An [[Alternative]] to an [[Image]] is [[Speech]].

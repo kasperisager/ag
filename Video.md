@@ -1,0 +1,1 @@
+A [[Video]] is an [[Artefact]] with a [[Visible]] and possibly [[Audible]] [[Facet]]. An [[Alternative]] to the [[Visible]] [[Facet]] of a [[Video]] is [[Speech]]. An [[Alternative]] to the [[Audible]] [[Facet]] of a [[Video]] is [[Text]].

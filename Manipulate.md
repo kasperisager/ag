@@ -1,0 +1,1 @@
+A [[User]] can [[Manipulate]] an [[Artefact]] to alter a [[State]] or perform an [[Action]].

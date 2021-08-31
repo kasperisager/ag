@@ -1,0 +1,1 @@
+An [[Artefact]] is an object, presented through a [[Medium]], that a [[User]] can [[Perceive]] and possibly [[Manipulate]]. An [[Artefact]] consists of one or more [[Facet|Facets]].
