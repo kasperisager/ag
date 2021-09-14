@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "522f3b9f1a52b53e",
+        "id": "34e47c1cd615dcc6",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Affordance.md",
+            "file": "Picture.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Affordance.md",
+                "file": "Picture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "522f3b9f1a52b53e",
+  "active": "34e47c1cd615dcc6",
   "lastOpenFiles": [
-    "Affordance.md",
-    "Artefact.md",
-    "Untitled.md",
-    "Understand.md",
+    "Picture.md",
     "Accessible.md",
-    "Sense.md",
-    "Image.md",
-    "Mode.md",
+    "Control.md",
     "Manipulate.md",
-    "Alternative.md"
+    "Button.md",
+    "Artefact.md",
+    "Video.md",
+    "Web/Button.md",
+    "Web/Untitled.md",
+    "Icon.md"
   ]
 }

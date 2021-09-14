@@ -1,1 +1,1 @@
-An [[Affordance]] is the [[relation]] between the actual and perceived properties of an [[Artefact]] and the  actions that can be performed on that  [[Artefact]].
+An [[Affordance]] is the [[Relation]] between the actual and perceived properties of an [[Artefact]] and the  [[Action|Actions]] that can be performed on that  [[Artefact]].

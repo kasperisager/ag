@@ -1,0 +1,1 @@
+An [[Icon]] is a [[Picture]] representing [[Information]].
