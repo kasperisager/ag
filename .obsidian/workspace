@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Picture.md",
+            "file": "Web/Text.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Picture.md",
+                "file": "Web/Text.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "34e47c1cd615dcc6",
   "lastOpenFiles": [
-    "Picture.md",
-    "Accessible.md",
-    "Control.md",
-    "Manipulate.md",
-    "Button.md",
-    "Artefact.md",
-    "Video.md",
-    "Web/Button.md",
     "Web/Untitled.md",
-    "Icon.md"
+    "Web/Picture.md",
+    "Picture.md",
+    "Alternative.md",
+    "Manipulate.md",
+    "Mode.md",
+    "Perceive.md",
+    "Sense.md",
+    "Video.md",
+    "Text.md"
   ]
 }
