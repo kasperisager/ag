@@ -1,0 +1,1 @@
+[[Programmatic Text]] is an [[Artefact]] that consists of a sequence of bytes [[Intent|Intended]] to map to Unicode. [[Programmatic Text]] text does not have any [[Facet|Facets]] on its own, but various [[Facet|Facets]] can be provided by a [[Helper]]. It is common to provide a [[Visible]] [[Facet]] for [[Programmatic Text]] by rendering the corresponding Unicode glyphs.

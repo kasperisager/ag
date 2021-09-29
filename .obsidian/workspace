@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Web/Text.md",
+            "file": "Programmatic Text.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/Text.md",
+                "file": "Programmatic Text.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "34e47c1cd615dcc6",
   "lastOpenFiles": [
-    "Web/Untitled.md",
+    "Programmatic Text.md",
     "Web/Picture.md",
-    "Picture.md",
+    "Icon.md",
+    "Text.md",
+    "Accessible.md",
+    "Affordance.md",
+    "Web/Programmatic Text.md",
+    "Helper.md",
     "Alternative.md",
-    "Manipulate.md",
-    "Mode.md",
-    "Perceive.md",
-    "Sense.md",
-    "Video.md",
-    "Text.md"
+    "Control.md"
   ]
 }
